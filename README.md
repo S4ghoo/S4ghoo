@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @S4ghoo
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-S4ghoo/S4ghoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineering student with a growing interest in Data Science, Artificial Intelligence, and Machine Learning.I'm currently a beginner  learning new concepts and exploring different tools and technologies. I'm working on various small projects to build my skills in data analysis, machine learning, and AI applications. I'm excited to grow through hands-on experience, contribute to open-source communities, and keep learning from real-world challenges.
